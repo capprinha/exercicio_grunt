@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){(h1=document.querySelector("h1"))&&this.addEventListener("click",function(){alert("Olá, Grunt")})});
